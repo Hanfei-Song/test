@@ -1,0 +1,4 @@
+<!--pages/list/list.wxml-->
+<view>计数值：{{count}}</view>
+<button type="primary" bindtap="Add">+1</button>
+<button type="warn" bindtap="Clear">清零</button>
