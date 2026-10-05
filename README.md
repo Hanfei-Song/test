@@ -1,2 +1,2 @@
-# test
-test for repository
+# counter
+A simple counter fot testing.
